@@ -1,3 +1,3 @@
 # terraform.nvim
 
-_🚧 Work in progress. Come back soon! 🚧
+_🚧 Work in progress. Come back soon! 🚧_
